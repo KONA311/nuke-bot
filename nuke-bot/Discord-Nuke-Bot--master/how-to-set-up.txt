@@ -1,0 +1,18 @@
+HOW TO SET UP NUKE BOT
+1. go to discord developer portal:
+https://discordapp.com/developers/applications
+
+2. click the new application button and name it whatever u want, then scroll down to build a  bot.
+
+3. under the bots name should be a copy token button, copy the token (dont show anyone else the token).
+
+4. open the bot.js file which is just called bot, then in the bottom of the bot script you should see client.login ("") or something like that. delete whatever is in that box so there is just (""), then in between the qoutation marks paste the token then save the file.
+
+5. go back to the application page and copy the client ID, then replace the 0's in this link with the client ID https://discordapp.com/oauth2/authorize?&client_id=000000000000000001&scope=bot&permissions=8 that will open a portal to where you add the bot to the servers you have admin in (id bookmart it)
+
+6. once the bot is in the server, open the batch file named "Run" and the bot should come online.
+type n!help and the bot will dm you the list of commands, for help just dm me #6830 is my tag. 
+
+7. Enjoy!
+
+8. read the how to use file for more info. INSTALL NODE.JS!!!
